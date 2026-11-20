@@ -5,4 +5,4 @@ Production build of [hds-support-console](https://github.com/healthdatasafe/hds-
 
 ## License
 
-Proprietary: Health Data Safe, all rights reserved; published to be served, not licensed for reuse. See [LICENSE](LICENSE).
+Proprietary: Health Data Safe, all rights reserved. Served to be used as is; you may inspect and test it to check how it handles your data. See [LICENSE](LICENSE).
